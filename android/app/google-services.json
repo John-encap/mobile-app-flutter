@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1052126029685",
+    "project_id": "liquor-purchase-app",
+    "storage_bucket": "liquor-purchase-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052126029685:android:4c784f699c5d183c13d53c",
+        "android_client_info": {
+          "package_name": "com.example.liquor_purchase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052126029685-5vn0o2o573ibm8udcldg2r40j3o51614.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liquor_purchase_app",
+            "certificate_hash": "839ea3a042f06652a2dcaa6976e79f21de4ddaef"
+          }
+        },
+        {
+          "client_id": "1052126029685-s2t36oo38r90vs5uviffdbgchjl3qln8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCmsF3ezaAg4lDJjGKTvkJ3lTaX48m8tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052126029685-s2t36oo38r90vs5uviffdbgchjl3qln8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
